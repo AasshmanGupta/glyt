@@ -53,6 +53,7 @@ The following characteristics are intentionally avoided.
 The following languages were evaluated during Version 0.
 
 | Rank | Language |
+| ----------- | ----------- |
 | 🥇 | Swift |
 | 🥈 | Kotlin |
 | 🥈 | Odin |
