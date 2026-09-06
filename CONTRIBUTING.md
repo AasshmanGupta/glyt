@@ -57,6 +57,14 @@ also explain:
 
 Technical precision remains important. Clear explanation is part of that precision.
 
+## Contribution rights and project continuity
+
+Contributors retain ownership of their own original work unless they separately agree to transfer it. By submitting a contribution for inclusion in Glyt, a contributor must grant the Glyt project the rights necessary to use, reproduce, modify, distribute, relicense where permitted by the applicable project license, and maintain the accepted contribution as part of Glyt.
+
+The purpose is project continuity: an accepted improvement should not later become unusable because its contributor withdraws permission for Glyt to maintain it. Contributors receive appropriate credit in Glyt's own contributor records and release history. Downstream software built with Glyt is not required to reproduce Glyt's entire contributor history merely because it uses Glyt.
+
+The project may adopt a more formal contributor agreement before accepting substantial third-party implementation code. Until then, contributors should only submit work they have the right to license in this way.
+
 ## Disagreement is useful
 
 A contributor is allowed to challenge the founder, the current Constitution, or an existing design.

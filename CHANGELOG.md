@@ -2,6 +2,15 @@
 
 ## 0.1.0 — Foundation Rebuilt
 
+### Licensing foundation
+
+- added GPLv3 as the intended license for the Glyt software implementation
+- added a separate CC BY 4.0 licensing notice for documentation, specification, and research
+- documented the intended runtime/application licensing boundary
+- added contributor-rights and project-continuity guidance
+- added Glyt name and branding policy
+- added security reporting and coordinated-disclosure policy
+
 ### Replaced
 
 The v0.0 documentation structure has been replaced rather than incrementally patched.
