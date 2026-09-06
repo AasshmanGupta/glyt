@@ -1,135 +1,90 @@
-# Glyt Bible
-
-> Version 0 — Establishment
+# The Glyt Bible
 
 ## North Star
 
-> Advancement without losing soul.
+> **Advancement without losing soul.**
 
-Every decision made for Glyt must move the language forward while preserving the joy, beauty, and excitement of creation.
+### Soul
 
-## Constitution
+The soul of Glyt is the human creator.
 
-### 1. One Language
+Glyt exists to amplify human capability rather than turning humans into machine operators.
 
-Glyt has one grammar that works across every domain.
+## The dream
 
-### 2. Variable Density
+A person should be able to have an idea and move toward reality without being blocked by unnecessary technical barriers.
 
-The language scales naturally from beginner to expert without changing its grammar.
+The ultimate ambition is:
 
-### 3. Progressive Disclosure
+> **Make anyone capable of doing anything easily.**
 
-Simple things are simple. Advanced control is always available when needed.
+“Anything” is intentionally broad. Glyt should not assume that today's list of domains defines tomorrow's possibilities.
 
-### 4. Beginner Magic, Expert Override
+## The core shape
 
-Glyt provides intelligent dafaults while allowing complete control.
+Glyt should be:
 
-### 5. Universal Creation
+- easy to enter
+- deep enough to reward mastery
+- capable across domains
+- coherent as one language
+- progressively controllable
+- safe to experiment with
+- pleasant to use
+- educational through experience
+- open to community discovery
 
-A single language should be capable of creating software in every domain.
+## The dual experience
 
-### 6. Domain Vocabulary
+Glyt should serve at least two broad intentions:
 
-Domains extend vocabulary, not grammar.
+### Explorer
 
-### 7. User Convenience First
+The user wants discovery, experimentation, novelty, understanding, and the feeling of seeing what is possible.
 
-Reduce unnecessary friction whenever possible.
+### Achiever
 
-### 8. Interoperability Without Dependence
+The user has a concrete outcome in mind and wants to make it now.
 
-Glyt can cooperate with other technologies without relying on them.
+These are not skill levels. A beginner can be an achiever. An expert can be an explorer. A single project can move between both.
 
-### 9. One Project, One Identity
+## The learning destination
 
-A project started in Glyt should remain a Glyt project.
+The ideal long-term result is not that the user becomes dependent on Glyt's convenience layers.
 
-### 10. Beauty Matters
+It is that the user eventually realizes:
 
-Writing, reading, and maintaining code should feel satisfying.
+> **“Wait. I actually understand programming now.”**
 
----
+Glyt should reveal its deeper structure naturally as people use it.
 
-## Manifesto
+## The control destination
 
-1. Creation should feel exciting.
-2. The language should grow with its creator.
-3. Solve problems, not language complexity.
-4. Simplicity is the beginning, not the limit.
-5. Beauty is functionality.
-6. Every abstraction should have a path downward.
-7. Respect developer intent.
-8. One language for every domain.
-9. Projects should feel alive.
-10. Convenience should never become a prison.
-11. Reward curiosity.
-12. Leave the creator smiling.
+A user should be able to move from high-level creation toward increasingly direct control when they need it.
 
----
+High-level creation → deeper Glyt → lower-level systems → raw interfaces → machine-level control.
 
-## Core Design Principles
+The path should remain part of one coherent capability model rather than forcing people into unrelated languages merely because they want more control.
 
-- One grammar.
-- Variable density.
-- Progressive disclosure.
-- Consistent structure.
-- Beautiful defaults.
-- Maximum performance.
-- Strong safety.
-- Beginner accessibility.
-- Expert freedom.
-- Explicit where precision matters.
-- Automatic where convenience helps.
-- Evolution without losing identity.
+## The safety destination
 
----
+Powerful capabilities should not require blind trust.
 
-## Language Personality
+Safety should reason about capability and context, and powerful experimentation should be possible inside bounded environments.
 
-Glyt should feel:
+The goal is to make safe exploration possible without making understanding impossible.
 
-- Elegant without being mysterious.
-- Powerful without being intimidating.
-- Beautiful without wasting space.
-- Professional without becoming cold.
-- Friendly without becoming a toy.
-- Consistent across every domain.
-- Alive during creation.
+## The community destination
 
----
+Glyt is not a founder pretending to already know every answer.
 
-## Anti-DNA
+The founder provides the dream, direction, curiosity, and stewardship.
+The community provides experiments, expertise, criticism, discoveries, alternatives, and new experiences.
 
-Glyt deliberately avoids:
+The project should be allowed to surprise its own creator.
 
-- Historical baggage.
-- Boilerplate.
-- Unsafe defaults.
-- Unnecessary verbosity.
-- Cryptic syntax.
-- One-domain limitations.
-- Restricting experts for simplicity.
-- Restricting beginners for power.
-- Hidden behavior without visibility.
-- Ecosystem lock-in.
+## The success test
 
----
+Glyt succeeds when people use it to make real things they otherwise might never have made because programming felt too inaccessible, fragmented, or lifeless.
 
-## Current Phase
-
-**Version 0 — Establishment**
-
-Version 0 defines Glyt's identity, philosophy, and direction before implementation.
-
----
-
-## Version 0 Objectives
-
-- Establish the identity of Glyt.
-- Study existing programming languages.
-- Extract the strongest design principles.
-- Build the DNA Matrix.
-- Complete the First Great Syntax Tournament.
-- Prepare the foundation for Version 1.
+A particularly strong milestone is seeing serious, publicly distributed software made with Glyt while the creation process remains alive rather than miserable.

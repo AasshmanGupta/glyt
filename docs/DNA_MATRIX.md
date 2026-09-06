@@ -1,80 +1,40 @@
-# DNA Matrix
+# Glyt DNA Matrix
 
-> Version 0 — First Great Syntax Tournament
+This matrix records ideas worth investigating, not syntax to copy.
 
-The DNA Matrix records the strongest design principles discovered during Glyt's first programming language study.
+## Strong inspirations
 
-The goal is **not** to copy existing languages.
-
-The goal is to identify timeless ideas worth evolving.
-
----
-
-## Core DNA
-
-| Property | Primary Sources |
-| ----------- | ----------- |
-| Readability | Python |
-| Learnability | Python, GDScript |
-| Typing Satisfaction | Kotlin, Swift, Lua |
-| Visual Beauty | Swift |
-| Visual Rhythm | Swift, Kotlin, Rust |
-| Beginner Experience | GDScript, Python |
-| Expert Control | Rust, Odin |
-| Explicitness | Rust, Odin, Zig |
-| Scalability | Rust, Go |
-| Performance | Rust, Zig, C++ |
-| Safety | Rust, Swift |
-| Universality | Python, C++ |
-
----
+| Dimension | Useful inspiration | What Glyt should learn |
+|---|---|---|
+| Readability | Python, Odin | Code should explain itself as much as possible |
+| Approachability | Python, GDScript | First contact should be low-friction |
+| Safety | Rust, Swift | Strong guarantees can coexist with serious capability |
+| Explicitness | Rust, Zig, Odin | Important behavior should be understandable |
+| Visual elegance | Swift, Kotlin | Surface form matters because humans read code |
+| Concision | Kotlin, Nim | Remove ceremony when it carries little meaning |
+| Systems control | Rust, Zig, C++ | High-level ease must not eliminate power |
+| Broad applicability | Python, C++, Lua | One language can serve many domains when designed carefully |
+| Small core | Lua, Zig | Keep fundamentals understandable and derive more where possible |
+| Fast iteration | GDScript, Python | The feedback loop should encourage making things |
+| Consistency | Go | Predictable structure reduces cognitive load |
+| Abstraction | Haskell, Rust, Kotlin | Powerful abstractions can be useful when understandable |
 
 ## Anti-DNA
 
-The following characteristics are intentionally avoided.
+Glyt should be suspicious of:
 
-| Characteristic | Example Sources |
-| ----------- | ----------- |
-| Historical baggage | C++ |
-| Boilerplate | C++, Java-style ecosystems |
-| Unsafe defaults | C++ |
-| Cryptic syntax | C++, Haskell |
-| Unnecesarry verbosity | Various |
-| One-domain limitation | GDScript, Lua |
-| Hidden behavior | Various |
-| Restricting experts for simplicity | Go |
-| Restricting beginners for power | Rust |
-| Ecosystem dependence | Swist, Kotlin, GDScript |
+- historical baggage with no current value
+- boilerplate that does not express intent
+- cryptic syntax chosen for cleverness
+- unsafe defaults where safer defaults are practical
+- domain silos that force needless language switching
+- hidden behavior that defeats understanding
+- restrictions imposed merely to make language design easier
+- ecosystems so fragmented that ordinary creation becomes tool archaeology
+- accidental complexity mistaken for sophistication
 
----
+## Principle
 
-## First Great Syntax Tournament
+The goal is not to make Glyt “the average” of existing languages.
 
-The following languages were evaluated during Version 0.
-
-| Rank | Language |
-| ----------- | ----------- |
-| 🥇 | Swift |
-| 🥈 | Kotlin |
-| 🥈 | Odin |
-| 4 | Rust |
-| 4 | Nim |
-| 6 | Zig |
-| 6 | GDScript |
-| 6 | Lua |
-| 9 | Python |
-| 10 | Go |
-| 11 | C++ |
-| 12 | Haskell |
-
----
-
-## Design Philosophy
-
-Every language solved different problems.
-
-Rather than selecting one winner, Glyt inherits the strongest ideas from each while preserving its own identity.
-
-Languages are inspirations, not templates.
-
-The DNA Matrix exists to keep future design decision intentional, consistent, and aligned with Glyt's long-term vision.
+The goal is to understand why their best ideas work, understand why their worst ideas hurt, and discover what a new combination could become.
