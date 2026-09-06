@@ -92,6 +92,16 @@ Glyt is not a promise that difficult real-world problems magically disappear. Th
 
 We will not invent these merely because a programming-language repository looks incomplete without them. They should emerge from research, experiments, contributor insight, and repeated use.
 
+## Licensing
+
+Glyt's goal is simple: **Glyt itself stays free, while things people build with Glyt belong to the people who build them.**
+
+The current licensing architecture is documented in [docs/LICENSING.md](docs/LICENSING.md). The main software implementation is intended to use GPLv3. Documentation, specification, and research are intended to use CC BY 4.0. Future runtime components may use a dedicated runtime exception so that applications made with Glyt can keep their own licensing.
+
+The runtime exception currently recorded in this repository is a draft and is not yet a final license.
+
+See [TRADEMARKS.md](TRADEMARKS.md) for the distinction between Glyt's open code and the official project name/branding, and [SECURITY.md](SECURITY.md) for security reporting.
+
 ## Collaboration
 
 Glyt is a public experiment. People can encounter it, disagree with it, study it, improve it, build experiments around it, or simply follow along.
