@@ -1,146 +1,116 @@
-# Glyt Roadmap
+# Roadmap
 
-> Long-term development roadmap for the Glyt programming language.
+This roadmap describes the direction of the project. Dates are intentionally omitted because discovery may change the sequence.
 
----
+## v0.1 — Foundation Rebuilt
 
-## Version 0 — Establishment ✅
+**Status: complete**
 
-Purpose:
+Established:
 
-Build a strong foundation before writing the language.
+- North Star
+- Constitution
+- philosophy
+- learning philosophy
+- creator experience
+- safety direction
+- control model
+- domain model
+- Glyt/Loom boundary
+- contribution model
+- research direction
+- explicit decision to keep concrete syntax undecided until better evidence exists
 
-Completed:
-
-- ✅ Vision
-- ✅ North Star
-- ✅ Constitution
-- ✅ Manifesto
-- ✅ Design Principles
-- ✅ First Great Syntax Tournament
-- ✅ DNA Matrix
-- ✅ Anti-DNA
-- ✅ Language Personality
-- ✅ Initial Documentation
-
-Status:
-
-**Complete**
-
----
-
-## Version 1 — Language Design
-
-Purpose:
-
-Design the first true version of Glyt.
+## v0.2 — Language Discovery
 
 Goals:
 
-- ⬜ Core syntax
-- ⬜ Grammar
-- ⬜ Keywords
-- ⬜ Blocks
-- ⬜ Expressions
-- ⬜ Variables
-- ⬜ Functions
-- ⬜ Types
-- ⬜ Modules
-- ⬜ Error philosophy
-- ⬜ Project structure
+- research programming education and human-computer interaction
+- research successful language design patterns
+- collect community experiments
+- test competing syntax and interaction hypotheses
+- define the conceptual core
+- identify which abstractions are fundamental
+- identify which conveniences can be derived
 
-Status:
+## v0.3 — Core Language Design
 
-**Planning**
+Potential areas:
 
----
+- grammar
+- expressions
+- blocks
+- values
+- variables
+- functions
+- types
+- modules
+- control flow
+- errors
+- resource ownership/lifetimes if required
+- metaprogramming or extension mechanisms if justified
 
-## Version 2 — Frontend
+Nothing in this list is guaranteed to survive research unchanged.
 
-Purpose:
+## v0.4 — Execution Experiments
 
-Teach the computer to understand Glyt.
+Build minimal experimental implementations to test whether the proposed language actually feels and behaves as intended.
 
-Goals:
+Possible work:
 
-- ⬜ Lexer
-- ⬜ Parser
-- ⬜ AST
-- ⬜ Semantic analysis
-- ⬜ Diagnostic
+- lexer/parser prototypes
+- interpreters
+- small frontends
+- diagnostics experiments
+- interactive tooling
 
-Status:
+## v0.5 — Real Software
 
-Not started.
+Demonstrate increasingly serious software built using Glyt.
 
----
+Focus on:
 
-## Version 3 — Backend
+- packaging
+- executable distribution
+- libraries
+- integration
+- debugging
+- testing
+- performance
+- reliability
 
-Purpose:
+## v0.6 — Deep Control
 
-Turn Glyt into real software.
+Prove the high-level-to-low-level path.
 
-Goals:
+Users should be able to remain productive at a high level while gaining progressively more control when required.
 
-- ⬜ Intermediate Representation (IR)
-- ⬜ Optimizer
-- ⬜ Code generation
-- ⬜ Executables
-- ⬜ Libraries
+## v0.7 — Domain Expansion
 
-Status:
+Develop domain vocabularies and experiment with multiple ways of making the same underlying language feel native to different kinds of creators.
 
-Not started.
+## v0.8 — Ecosystem Foundations
 
----
+Potential areas:
 
-## Version 4 — Standard Library
+- package management
+- formatter
+- linter
+- language server
+- testing tools
+- documentation generation
+- build/distribution tooling
 
-Goals:
+## v0.9 — Serious Validation
 
-- ⬜ Core modules
-- ⬜ Collections
-- ⬜ Files
-- ⬜ Networking
-- ⬜ Math
-- ⬜ Time
-- ⬜ Concurrency
+Attempt real projects with real users.
 
-Status:
+Look specifically for cases where people abandon work because of needless friction, and determine whether Glyt actually prevents that.
 
-Not started.
+## v1.0 — Glyt becomes a language people can trust
 
-## Version 5 — Ecosystem
+The exact definition of 1.0 will be determined by evidence, not by reaching a decorative checklist.
 
-Goals:
+The bar is roughly:
 
-- ⬜ Package manager
-- ⬜ Documentation generator
-- ⬜ Formatter
-- ⬜ Linter
-- ⬜ Language server
-- ⬜ Testing framework
-- ⬜ Build system
-
-Status:
-
-Not started.
-
----
-
-## Future
-
-Future versions may include:
-
-- Official IDE
-- Visual Builder
-- AI-assisted development
-- Universal Installer
-- Cross-platform toolchain
-- Self-hosted Glyt compiler
-- Full Nest ecosystem integration
-
----
-
-> "Advancement without losing soul."
+> A broad range of people can use Glyt to make serious software, understand increasingly more of what they are doing, and retain access to deep control without the language losing its identity.
